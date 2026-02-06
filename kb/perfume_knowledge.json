@@ -1,0 +1,137 @@
+{
+  "fragrance_families": [
+    {
+      "name": "Citrus",
+      "description": "Fresh, zesty, and uplifting. Citrus fragrances are characterized by bright notes from fruits like lemon, bergamot, orange, and grapefruit. Perfect for daytime wear and warm weather.",
+      "typical_notes": ["bergamot", "lemon", "orange", "grapefruit", "mandarin", "lime"],
+      "characteristics": "energizing, clean, refreshing",
+      "best_for": "summer, daily wear, morning"
+    },
+    {
+      "name": "Floral",
+      "description": "Romantic and feminine. Floral fragrances feature the scent of flowers like rose, jasmine, lavender, and lily. Can range from light and fresh to rich and heady.",
+      "typical_notes": ["rose", "jasmine", "lavender", "lily", "violet", "ylang ylang", "neroli"],
+      "characteristics": "romantic, elegant, feminine",
+      "best_for": "special occasions, spring, evenings"
+    },
+    {
+      "name": "Woody",
+      "description": "Warm, earthy, and sophisticated. Woody fragrances are built on notes like sandalwood, cedarwood, and vetiver. They provide depth and longevity.",
+      "typical_notes": ["sandalwood", "cedarwood", "vetiver", "patchouli", "oud"],
+      "characteristics": "grounding, sophisticated, masculine",
+      "best_for": "winter, evening, professional settings"
+    },
+    {
+      "name": "Oriental/Resinous",
+      "description": "Exotic, warm, and sensual. Features rich notes like amber, vanilla, and various resins. Often combined with spices for complexity.",
+      "typical_notes": ["amber", "vanilla", "benzoin", "frankincense", "myrrh"],
+      "characteristics": "warm, sensual, exotic",
+      "best_for": "winter, evening, special occasions"
+    },
+    {
+      "name": "Fresh/Green",
+      "description": "Crisp and natural. Green fragrances evoke cut grass, leaves, and herbs. They're invigorating and clean.",
+      "typical_notes": ["galbanum", "oakmoss", "basil", "mint", "cucumber"],
+      "characteristics": "crisp, natural, invigorating",
+      "best_for": "spring, daily wear, active lifestyle"
+    },
+    {
+      "name": "Gourmand",
+      "description": "Sweet and edible. Gourmand fragrances smell like desserts and feature notes like vanilla, chocolate, caramel, and tonka bean.",
+      "typical_notes": ["vanilla", "tonka bean", "caramel", "chocolate", "coffee"],
+      "characteristics": "sweet, comforting, indulgent",
+      "best_for": "casual wear, fall, winter"
+    }
+  ],
+  "perfume_pyramid": {
+    "top_notes": {
+      "description": "The first impression, lasting 15-30 minutes. Usually light, fresh, and volatile.",
+      "typical_percentage": "20-40%",
+      "common_notes": ["citrus oils", "light florals", "herbs", "aldehydes"],
+      "function": "Attracts attention and creates initial impression"
+    },
+    "middle_notes": {
+      "description": "The heart of the fragrance, emerging after 30 minutes and lasting 2-4 hours. Provides character.",
+      "typical_percentage": "40-50%",
+      "common_notes": ["florals", "fruits", "spices", "green notes"],
+      "function": "Defines the fragrance character and style"
+    },
+    "base_notes": {
+      "description": "The foundation, appearing after 2 hours and lasting 5-8+ hours. Provides depth and longevity.",
+      "typical_percentage": "20-30%",
+      "common_notes": ["woods", "musks", "vanilla", "amber", "resins"],
+      "function": "Provides longevity and depth"
+    }
+  },
+  "formulation_principles": [
+    {
+      "principle": "Balance",
+      "description": "A well-balanced perfume has harmony between all three note levels. No single note should overpower others unless intentionally creating a solifore.",
+      "tips": "Aim for 20-40% top, 40-50% middle, 20-30% base notes"
+    },
+    {
+      "principle": "Complexity",
+      "description": "Great perfumes evolve over time, revealing different facets. Use 8-15 ingredients for complexity without chaos.",
+      "tips": "Layer complementary notes, avoid too many competing elements"
+    },
+    {
+      "principle": "Longevity",
+      "description": "Use fixatives and base notes with high molecular weight to extend wear time.",
+      "tips": "Increase base note percentage, use fixatives like benzoin or labdanum"
+    },
+    {
+      "principle": "Projection",
+      "description": "Sillage (scent trail) is controlled by volatile top and middle notes.",
+      "tips": "Increase top/middle notes for stronger projection"
+    },
+    {
+      "principle": "Safety",
+      "description": "Respect IFRA guidelines and skin sensitivity limits for each ingredient.",
+      "tips": "Never exceed maximum usage levels, especially for potential allergens"
+    }
+  ],
+  "concentration_types": {
+    "Parfum": {
+      "oil_concentration": "20-30%",
+      "longevity": "6-8+ hours",
+      "projection": "moderate to strong",
+      "use_case": "Special occasions, evening wear, winter"
+    },
+    "EDP": {
+      "oil_concentration": "15-20%",
+      "longevity": "4-6 hours",
+      "projection": "moderate",
+      "use_case": "Versatile, suitable for most occasions"
+    },
+    "EDT": {
+      "oil_concentration": "5-15%",
+      "longevity": "3-4 hours",
+      "projection": "light to moderate",
+      "use_case": "Daily wear, office, warm weather"
+    },
+    "EdC": {
+      "oil_concentration": "2-5%",
+      "longevity": "2-3 hours",
+      "projection": "light",
+      "use_case": "Refreshing splash, very casual, summer"
+    }
+  },
+  "blending_tips": [
+    "Start with a concept or story you want to tell",
+    "Choose a dominant family and build around it",
+    "Use the rule of thirds: one-third dominant, one-third supporting, one-third accent notes",
+    "Test as you go - smell on blotter strips and skin",
+    "Let blends macerate for at least 48 hours before final evaluation",
+    "Keep detailed notes of your formulations",
+    "Consider the season and occasion for the wearer",
+    "Don't be afraid to break rules once you understand them"
+  ],
+  "common_pairings": [
+    {"combination": "Citrus + Woody", "effect": "Fresh yet grounded, unisex appeal"},
+    {"combination": "Floral + Vanilla", "effect": "Sweet and romantic, very feminine"},
+    {"combination": "Spice + Amber", "effect": "Warm and exotic, evening wear"},
+    {"combination": "Green + Aquatic", "effect": "Ultra-fresh, sporty, summery"},
+    {"combination": "Rose + Oud", "effect": "Luxurious and opulent, Middle Eastern style"},
+    {"combination": "Lavender + Vanilla", "effect": "Comforting and relaxing, unisex"}
+  ]
+}

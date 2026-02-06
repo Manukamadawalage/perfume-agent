@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout:*)",
+      "Bash(curl -s http://127.0.0.1:8000)",
+      "Bash(start:*)",
+      "Bash(tasklist)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(.venvScriptsuvicorn.exe app:app --reload --port 8000)",
+      "Bash(.venvScriptspython.exe -m uvicorn app:app --reload --port 8000)",
+      "Bash(netstat:*)",
+      "Bash(python:*)",
+      "Bash(curl -s http://127.0.0.1:8000/health)",
+      "Bash(.venv/Scripts/python.exe app.py:*)",
+      "Bash(curl -s http://127.0.0.1:8000/)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
